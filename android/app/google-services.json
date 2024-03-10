@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582289473305",
+    "project_id": "smart-irrigation-c6215",
+    "storage_bucket": "smart-irrigation-c6215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582289473305:android:7bbfb8b5cfe83c3b074f88",
+        "android_client_info": {
+          "package_name": "com.example.prasisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582289473305-2gtcrnjcfvj8umj5j3a573f44mh191g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADpVSyalW22SNdFnlemYyVAI9S40V7QbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582289473305-2gtcrnjcfvj8umj5j3a573f44mh191g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
